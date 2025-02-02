@@ -7,9 +7,9 @@
     <Title>LanguageTeller</Title>
     <Description>A simplified fasttext implementation in C#. It only supports using (loading) models rather than creating them.</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <AssemblyVersion>0.1.3</AssemblyVersion>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Version>0.1.3</Version>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

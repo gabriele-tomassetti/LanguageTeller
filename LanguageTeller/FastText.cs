@@ -17,7 +17,7 @@ namespace LanguageTeller
         public int Words { get; set; }
     }
     
-    public class LanguageTeller
+    public class FastText
     {
         private bool quant_;
         private int version;
@@ -42,7 +42,7 @@ namespace LanguageTeller
             set { thresholdMainLanguage = value <= 1.0f ? value : 1.0f; }
         }
 
-        public LanguageTeller(bool loadDefault = true)
+        public FastText(bool loadDefault = true)
         {
             if(loadDefault == true)
                 LoadDefaultModel();

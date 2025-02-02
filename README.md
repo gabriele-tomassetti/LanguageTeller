@@ -1,14 +1,14 @@
-﻿A basic C# port of Fasttext, a library to identify the languages of a piece of text. 
+﻿A basic C# port of Fasttext, a library to identify the languages used to write a text. 
 
 ## What and Why
 
 This library supports the .NET Standard 2.0 and 2.1. This library exists only because I wanted a version of the library without relying on the original library in C. If you do not care about that, you most likely prefer a library that is just a wrapper of the original library. I could not find a package like that on nuget, so here we are.
 
-**This library only support using an existing model rather than creating it.**
+**This library only supports using an existing model rather than creating a new one.**
 
 This library distributes the [original compressed version of the model developed by Facebook](https://fasttext.cc/docs/en/language-identification.html).
 
-Performance is good enough for the compressed version of the library. The performance for tests of the full model is quite bad (it takes more than an hour to run them).
+Performance is good enough for the compressed version of the library. The performance for tests of the full model is bad (it takes more than an hour to run them). 
 
 ##  Installation
 

@@ -10,10 +10,10 @@ namespace LanguageTeller.Tests
 {
     public class BasicTests
     {
-        private LanguageTeller LanguageTellerFtz;
+        private FastText LanguageTellerFtz;
         public BasicTests()
         {
-            LanguageTellerFtz = new LanguageTeller();
+            LanguageTellerFtz = new FastText();
         }
 
         [Fact]

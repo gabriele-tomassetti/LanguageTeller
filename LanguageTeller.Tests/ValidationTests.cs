@@ -11,10 +11,10 @@ namespace LanguageTeller.Tests
     {
         private static CultureInfo[] Cultures = CultureInfo.GetCultures(CultureTypes.AllCultures);
 
-        private LanguageTeller LanguageTellerFtz;        
+        private FastText LanguageTellerFtz;        
         public ValidationTests()
         {            
-            LanguageTellerFtz = new LanguageTeller();
+            LanguageTellerFtz = new FastText();
         }
 
         private static string GetLanguage(string code)

@@ -11,10 +11,10 @@ namespace LanguageTeller.Tests
     {
         private static CultureInfo[] Cultures = CultureInfo.GetCultures(CultureTypes.AllCultures);
 
-        private LanguageTeller LanguageTellerBin;
+        private FastText LanguageTellerBin;
         public FullModelTests()
         {
-            LanguageTellerBin = new LanguageTeller(false);
+            LanguageTellerBin = new FastText(false);
             LanguageTellerBin.LoadModel(@"..\..\..\data\lid.176.bin");
         }
 
