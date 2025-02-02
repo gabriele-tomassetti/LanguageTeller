@@ -8,7 +8,7 @@ This library supports the .NET Standard 2.0 and 2.1. This library exists only be
 
 This library distributes the [original compressed version of the model developed by Facebook](https://fasttext.cc/docs/en/language-identification.html).
 
-Performance is good enough for the compressed version of the library. The performance for tests of the full model is bad (it takes more than an hour to run them). 
+Performance is good enough for the compressed version of the library. The performance for tests of the full model is bad (it takes more than an hour to run them). I am not sure why. However, using the full model the performance is as expected.
 
 ##  Installation
 
