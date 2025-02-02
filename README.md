@@ -29,3 +29,7 @@ Initializing the main class, `LanguageTeller`, automatically loads the default m
 - `TellAllanguages` method, to identify all the potential languages for a piece of text (or input stream).
 
 There are also utility method to check a model or load your own. You might also be interested in `GetLabels` which lists the labels used by a model.
+
+## License
+
+The code itself is under the Apache License. The model maintains the original license of Facebook, which is [Creative Commons Attribution-Share-Alike License 3.0.](https://creativecommons.org/licenses/by-sa/3.0/).
