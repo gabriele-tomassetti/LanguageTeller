@@ -10,6 +10,9 @@
     <AssemblyVersion>0.1.0</AssemblyVersion>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Version>0.1.0</Version>
+	<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>	
+    <RepositoryUrl>https://github.com/gabriele-tomassetti/LanguageTeller</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
