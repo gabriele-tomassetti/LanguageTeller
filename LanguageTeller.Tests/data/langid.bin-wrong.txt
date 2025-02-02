@@ -1,0 +1,242 @@
+__label__pt A parede está mal pintada.
+__label__nb Er de ikke amerikanske?
+__label__sr Ta lisica je sigurno ubila kokoš.
+__label__ia Tu me mentiva, nonne?
+__label__uk Я просто ледачий.
+__label__nb Dette valget må vi og skal vi vinne.
+__label__hr Noću galebovi kriče.
+__label__nb Han giftet seg med en veldig pen jente.
+__label__ka  Imudd-ak-t.
+__label__ka  Ad y-awin ɣer lḥebs.
+__label__cs Žijete sami?
+__label__de Um was handelt es sich?
+__label__nb Jeg ringer ham hver dag.
+__label__eo Provu agi normale.
+__label__sr Prestani da gledaš TV i kreni sa učenjem.
+__label__ka  Ad sewweqent yid-i?
+__label__bn ওটা ওখানেই রাখো।
+__label__eo Ne repliku akre.
+__label__nd  Worüm anterst du mi nich op miene Narichten?
+__label__ka  Textaṛ-ik?
+__label__el Τέλεια!
+__label__ds  Telefon jo znowa zwónił.
+__label__ja 最近は多くの人が車で旅行する。
+__label__fi Kirsikkapuun alla on ruumis!
+__label__ka  Ɣucceɣ ad xeṣṛeɣ.
+__label__ka  Ahat tunfeḍ acemma i nnican, baqi tqerbeḍ ɣur-s.
+__label__ka  Aya ixdem-it d tiwizi kan.
+__label__ka  Tɣunfaḍ-t?
+__label__ka  D tafransist i d tutlayt-iw tayemmat.
+__label__sr Sada pomalo brinem.
+__label__nb Vis meg hvordan du gjør det der.
+__label__ka  D tmakkatet n wevyulu yettwassnen ddeq-is.
+__label__nb Jeg trodde Tom var i fare.
+__label__ka  Aṭṭas iqedcen deg waṭas n taɣulin.
+__label__ka  Wi ak-yennan yemmut?
+__label__es Coged solo uno.
+__label__ia Le pictura es le arte de proteger del mal tempore superficies plan, e de exponer los al critica.
+__label__af Tom laat my toe om te bestuur.
+__label__el Η θεία μου είναι πιο μεγάλη απ' τη μητέρα μου.
+__label__ka  Ẓṛant-kem neɣ ala?
+__label__el Θα πληρώσει ο Τομ.
+__label__sr Koji jezik govore u Meksiku?
+__label__ka  Ur ilaq ara ad tεejleḍ deg usenqed n medden.
+__label__es ¿Esta es su casa?
+__label__es Enseguida acabo.
+__label__nd  Hebbt ji ehr sehn?
+__label__ka  Beεεed ɣef tmes-nni.
+__label__ka  Wissen ma ad icfu fell-am?
+__label__nd  En Jung von söventeihn is faken jüstso groot as sien Vader.
+__label__nd  Mit ’keen snackt he?
+__label__ka  Xedment tafellaḥt asmi i asent-terbeḥ.
+__label__nd  Bob deed Preester warrn.
+__label__ka  Teqqes-iyi tzizwit yebzeg wudem-iw.
+__label__nd  Nüms weet, wat em so pieren deed.
+__label__hr Danas je bilo vjetrovito i jako hladno.
+__label__hr Tehnologija može pomoći.
+__label__ka  Ur cfiɣ ara fell-asent.
+__label__ka  Fket-iyi-d adlis-nni.
+__label__sv Lösenord?
+__label__sr On je upravo kupio polovan moped.
+__label__ka  yiwen, sin, tlata, ruḥet!
+__label__nb Er du klar til å bestille nå?
+__label__nd  He smirkst mit de Tung.
+__label__sr Леха занима историја.
+__label__uk Тома Джексона стратили за зраду.
+__label__uk Тон задзвонить.
+__label__nb Vi har allerede fortalt Tom hva han må gjøre.
+__label__nl Jullie rennen.
+__label__el Θ' αγοράσω μία.
+__label__sr Ne pij vodu!
+__label__sr Морате размислити пре одговора.
+__label__ka  Aḥlil ma kemmlent akka!
+__label__eo Certe.
+__label__ka  Aya yezmer ad d-yeḍru i win yellan d ccaṭer.
+__label__uk Я - землянин.
+__label__hr Avionska karta je mnogo skuplja nego za vlak.
+__label__nd  De Melk smeckt slecht.
+__label__lt Kame skirtumas?
+__label__nb Bær og annen plantemat inneholder mye antioksidanter.
+__label__bg Трудно ми е да се концентрирам.
+__label__ka  La nreggel.
+__label__da Tom lod sig fotografere.
+__label__ka  Nnumeɣ ssewwayeɣ-d ayen ara ččeɣ.
+__label__nl Tom plukt sinaasappels.
+__label__ka  Ṭṭfemt-as-tent-id.
+__label__pl Co to za zapach?
+__label__ka  Uɣalen-d s anda akken bɣan ad ilin.
+__label__sv Har du blivit en ängel?
+__label__sq Jetoj afër Tomit.
+__label__nd  De Spraakkenner kennt Esperanto faken för Spaansch.
+__label__sa  Ким билбитэ баарай!?
+__label__it Amo fare shopping!
+__label__as  ¡Bon nataliegu!
+__label__nd  Mien Mudder backt elk Morgen Brood.
+__label__ka  Ttxil-m qqim.
+__label__nd  Wann büst du dat leste Mool bi dien Öllern wäsen?
+__label__el Σας αρέσουν τα γλυκά; Ναι μου αρέσουν.
+__label__ka  Eǧǧ-iyi-iten-id.
+__label__km យកអា៎មួយណា?
+__label__es ¿Quieres probar esto?
+__label__ka  D acu i tebɣam sɣur-sen?
+__label__km ជនជាតិខ្មែរ ចូលចិត្តញ៉ាំត្រីអាំង។
+__label__ka  Seg tifawt ur yeḥbis wedfel tiyita.
+__label__pt Por favor, dirija com cuidado.
+__label__bn আমার মালপত্র এখনো এসে পৌঁছায়নি।
+__label__pt Maria espalhou boatos falsos sobre os pais de Kate.
+__label__ka  Ayɣer i tt-id-tuɣem?
+__label__ka  Yella walebɛaḍ i m-d-isawlen.
+__label__nl Beter lachen dan huilen.
+__label__ka  Ilaq ad tḍefṛeḍ ilugan.
+__label__it O kemuni mai vei?
+__label__as তোমাৰ স্কুলখন ক’ত আছে?
+__label__nb Han er sjalu.
+__label__sr Tom i Meri su konačno odlučili da se ožene.
+__label__br Korf ebet.
+__label__ka  Melmi i d-usan?
+__label__ka  Tugad dɣa terwel.
+__label__nb Se opp på himmelen, og tell stjernene hvis du kan.
+__label__nd  Ik weet nich, wat ik maken schall.
+__label__nd  Ik weet nich, ’keen disse Mann is.
+__label__nd  Se lees em en Gedicht vör.
+__label__sa  Оҕо—киһи дьоло, эрэлэ.
+__label__sr Ne bleji.
+__label__nb Har du noen som er billigere?
+__label__ka  Tesfeεfεeḍ-iyi!
+__label__pt Queremos ir à Rússia.
+__label__nd  Se keek em in ’t Gesicht.
+__label__ka  D ayen dɣa i yellan ilaq-ak.
+__label__es Espero con ganas su visita.
+__label__it Este peixe cru fresco está delicioso.
+__label__el Του αγόρασα γραβάτα.
+__label__nb Tony er en høflig gutt.
+__label__ka  Yal ugur ɣur-s tifrat.
+__label__ka  Ɛlay Tom.
+__label__ka  Ass amenzu deg ikem-walaɣ, ul-iw am tzeǧǧigt im-yelli afriwen-is.
+__label__nb Gi meg noe å skrive på.
+__label__ka  Meqqeṛ deg leɛmeṛ, meɛna ur yessin ara akk ad iqadeṛ medden.
+__label__nb Det hadde snødd i en uke.
+__label__ka  Yesmejger Tom.
+__label__ka  Atta tewweḍ-d nnuba-w.
+__label__fi Tiesin sen.
+__label__ka  Yesεa yelli-s tecbeḥ.
+__label__ka  Ur yettbeddil yiqiḥ.
+__label__la AD LONDONIUM VENIVIT ANTE ANNO DUO
+__label__ka  D azgay i usiked n tideţ.
+__label__ka  Ccečč-iyi.
+__label__el Μ' αρέσει να μελετάω Αγγλικά.
+__label__la Decorum ab honesto non potest separare.
+__label__gl Espero que te poñas ben pronto.
+__label__ia Le derecto que le leon ha, le asino non lo ha.
+__label__ka  Ttamneɣ-kent.
+__label__da Kører denne bus til Park Ridge?
+__label__de Maria, was tust du gerade?
+__label__ka  Tlemdem asewwi neɣ kra nniḍen?
+__label__ro El este un om haios.
+__label__nd  He bruukt en Brill.
+__label__el Αυτή είναι η γάτα μου.
+__label__bs Rušio sam školu.
+__label__bg Вчера следобед валя.
+__label__nd  Wi sünd jümmer Frünnen wesen.
+__label__pt Rompamos os muros entre os povos.
+__label__es ¡Ven!
+__label__sa  Кутталыттан уҥна.
+__label__km តើម្ហូបរបស់ខ្ញុំនៅឯណា ?
+__label__nd  Ik wull geern en Foto von di hebben.
+__label__nd  En Pull Hoor keek ünner ehr Mütz rut.
+__label__ka  Ifukk-it?
+__label__ia Le linguistica comparate o comparative es relativemente poco diffuse in Brasil, forsan perque su practica demanda le dominio de plure linguas.
+__label__ca Tens gana?
+__label__nd  Dat Klima hier is as in Frankriek.
+__label__ba Томның бай булғанын төшөндөм.
+__label__el Αναρωτιέμαι γιατί δεν είναι δω ο Τομ.
+__label__sr Koji studenti će raditi test?
+__label__ds  Tom njejo rowno doma.
+__label__nb La det bli med det for denne gang.
+__label__de Tom gefiel, was er sah.
+__label__ka  I wacu i tṛuḥem ɣer din?
+__label__bn আমি ছয়টা সময়ে ফিরে আসবো।
+__label__oc I a una dèca dens sa redaccion.
+__label__es ¿Le echo una mano?
+__label__kw Trigys ov vy yn Hyogo.
+__label__ka  Tom yeṭṭef lkar ar unaray-is.
+__label__nn Vi mislukkast i å få han til å seia seg samd i planen vår.
+__label__pt Faz as coisas com amor.
+__label__sr Jesi li video mog psa?
+__label__da Tom mener, at planen kan give bagslag.
+__label__ka  Steɛfu kan.
+__label__ka  Akka i yelha.
+__label__nl We hadden beiden honger.
+__label__ka  Ǧǧan-d ayen i d-ǧǧan wiggad iruḥen, ččan ayen i d-ǧǧan wiggad i d-yeqqimen !
+__label__rn Nzokunezereza.
+__label__ka  Feṛḥen akken ma llan.
+__label__nb Tom er en venn av John.
+__label__eo Estis ridige!
+__label__km ចង់ទៅជាមួយខ្ញុំអត់?
+__label__nb Prisene har gått ned.
+__label__nd  Tom deed noch en Stück Holt bi ’t Füür leggen.
+__label__ka  Ɣef acu i tennuɣem akken?
+__label__ja 意志のあるところに道あり。
+__label__ka  Ṛeḍlet-asent-tent-id.
+__label__eu E?
+__label__nl Tom dronk bier.
+__label__ka  Aṭas n imeckuken i yellan.
+__label__sk Život je krátky.
+__label__ka  Ddaw n uzgen n uvrid i d-yeggran ɣer tqacuct. D tidet teɛyam yakan?
+__label__ka  Fkan-as asegzawal i yelli deg uɣerbaz.
+__label__ka  Tom yella temlek-it Mary.
+__label__ee Wo menya be yapantɔ menye o.
+__label__uk Я сплю.
+__label__la Thomas est vir magnae auctoritatis.
+__label__ka  Awit-asen-d ad ččen.
+__label__lt Viso gero.
+__label__oc La veitura de Jack es un modèle recent.
+__label__ka  Cfu mliḥ ɣef awalen-a.
+__label__ka  Ad yili wahil n usewsaɛ n uẓeṭṭa ɣer tuddrin-nniḍen deg wagguren i d-iteddun.
+__label__ka  Ismawen-a imaynuten ur ten-tettissin ara taggayt niḍen.
+__label__nd  He drünk een Beer ut un bestell glieks noch een.
+__label__ka  Ur tessineḍ ara ad temmeslayeḍ tafṛansist neɣ ala?
+__label__el Απεχθάνομαι την αγενή του στάση.
+__label__be Я маю сабаку.
+__label__es ¡Callate, pelotudo!
+__label__la Tres erant homines.
+__label__uk Десь болить?
+__label__ka  Acu tettrajit isqedcet isnasen i d-yeqqlen i teqbaylit?
+__label__uk У Тома талант.
+__label__vo Cils dredons semikna dagi.
+__label__oc Podes anar on que sia.
+__label__ka  Tberreḥ-d taddart ɣer twizi.
+__label__ka  Amek i telliḍ a Mike?
+__label__ro Să facem curat.
+__label__ka  Degmi ẓẓay s waṭas, ur zmireɣ ad-t rfed-aɣ.
+__label__el Ο Τομ μεταφράζει αργά.
+__label__pr  Ka pamenna rikīs iz pirmans kereūsnas dēinans?
+__label__nd  Ik will Sex mit ehr hebben.
+__label__nd  Ik fraag mi, wat de Klock seggt.
+__label__ka  Akked wumi i tesɛam ttiɛad?
+__label__eu Ez dut alergiarik.
+__label__nb Dette emballasjemateriale gir termisk isolasjon.
+__label__sk Márii sa sníval zlý sen.
+__label__uk Я перевдягаюсь.
+__label__nb Jeg ønsker å kjøpe denne klokken men dessverre er den altfor dyr.
+__label__nd  Wat verwachtst du?

@@ -1,0 +1,619 @@
+__label__mk Водата содржи водород и кислород.
+__label__pt Continuo vivo.
+__label__eo Grizelda falis el la tegmento.
+__label__nb Er de ikke amerikanske?
+__label__lt Jie pervertino.
+__label__ko 존나 더워.
+__label__ia Tu me mentiva, nonne?
+__label__uk Я просто ледачий.
+__label__sr Kada si počeo da učiš latinski?
+__label__nb Dette valget må vi og skal vi vinne.
+__label__it Mia sorella adora la musica.
+__label__tr Gülünç!
+__label__hr Noću galebovi kriče.
+__label__nb Han giftet seg med en veldig pen jente.
+__label__ka  Imudd-ak-t.
+__label__ka  Ad y-awin ɣer lḥebs.
+__label__it Per studio vado in Russia.
+__label__uk Я заплатив Тому.
+__label__es Estabas hermosa.
+__label__cs Žijete sami?
+__label__de Um was handelt es sich?
+__label__nb Jeg ringer ham hver dag.
+__label__it Erano mie.
+__label__it Mi sposi.
+__label__sr Prestani da gledaš TV i kreni sa učenjem.
+__label__ka  Ad sewweqent yid-i?
+__label__is Arabía er rík olíu.
+__label__ia Que nos spera, que deman il facera bon tempore.
+__label__en Is Tom drunk?
+__label__pl Lubi pan truskawki?
+__label__hu Ön terhes.
+__label__bn ওটা ওখানেই রাখো।
+__label__mk Тие беа цврсти.
+__label__eo Ne repliku akre.
+__label__nd  Worüm anterst du mi nich op miene Narichten?
+__label__ka  Textaṛ-ik?
+__label__eo Tom timis fiaski.
+__label__el Τέλεια!
+__label__ds  Telefon jo znowa zwónił.
+__label__ja 最近は多くの人が車で旅行する。
+__label__qu  Kuñi unu kanchu?
+__label__uk Я розплющила око.
+__label__ka  Ɣucceɣ ad xeṣṛeɣ.
+__label__uk Я люблю грати в бейсбол.
+__label__it Tom mi ricorda John.
+__label__ka  Ahat tunfeḍ acemma i nnican, baqi tqerbeḍ ɣur-s.
+__label__el Σχεδόν τελειώσαμε τη δουλειά μας.
+__label__ka  Aya ixdem-it d tiwizi kan.
+__label__ka  Tɣunfaḍ-t?
+__label__uk Не марнуйте часу Тома.
+__label__ka  D tafransist i d tutlayt-iw tayemmat.
+__label__sr Sada pomalo brinem.
+__label__nb Vis meg hvordan du gjør det der.
+__label__mk Оди на доктор.
+__label__it Metti in valigia la pomata.
+__label__mk Долго живеев.
+__label__ka  D tmakkatet n wevyulu yettwassnen ddeq-is.
+__label__nb Jeg trodde Tom var i fare.
+__label__la Effugimus scopulos Ithacae, Laërtia regna, / et terram altricem saevi exsecramur Ulixi.
+__label__ka  Aṭṭas iqedcen deg waṭas n taɣulin.
+__label__uk Будь ласка, дозволь Тому перемогти.
+__label__sr Jedva čekam sutra.
+__label__ka  Wi ak-yennan yemmut?
+__label__es Coged solo uno.
+__label__es ¿Ya le echaste gasolina a la moto?
+__label__ia Le pictura es le arte de proteger del mal tempore superficies plan, e de exponer los al critica.
+__label__af Tom laat my toe om te bestuur.
+__label__el Η θεία μου είναι πιο μεγάλη απ' τη μητέρα μου.
+__label__fr Eh ben voyons !
+__label__ka  Ẓṛant-kem neɣ ala?
+__label__mr टॉम दार का नाही उघडत?
+__label__el Θα πληρώσει ο Τομ.
+__label__sr Koji jezik govore u Meksiku?
+__label__ka  Ur ilaq ara ad tεejleḍ deg usenqed n medden.
+__label__ro De ce este cerul albastru?
+__label__es Enseguida acabo.
+__label__nd  Hebbt ji ehr sehn?
+__label__uk Дайте, будь ласка, склянку води.
+__label__sr Узео сам три таблете за прехладу, пре него што сам легао.
+__label__ka  Beεεed ɣef tmes-nni.
+__label__uk Собаки можуть плавати.
+__label__ka  Wissen ma ad icfu fell-am?
+__label__nd  En Jung von söventeihn is faken jüstso groot as sien Vader.
+__label__nd  Mit ’keen snackt he?
+__label__it Fornite la password.
+__label__ka  Xedment tafellaḥt asmi i asent-terbeḥ.
+__label__nd  Bob deed Preester warrn.
+__label__ka  Teqqes-iyi tzizwit yebzeg wudem-iw.
+__label__ca De la gent pobra no te n'has de riure.
+__label__nl Je begint me stilaan op de zenuwen te werken.
+__label__nd  Nüms weet, wat em so pieren deed.
+__label__ka  Ur cfiɣ ara fell-asent.
+__label__ka  Fket-iyi-d adlis-nni.
+__label__ar اتبعه.
+__label__bg Те направиха драма по романа.
+__label__sv Lösenord?
+__label__sr On je upravo kupio polovan moped.
+__label__ka  yiwen, sin, tlata, ruḥet!
+__label__nb Er du klar til å bestille nå?
+__label__nd  He smirkst mit de Tung.
+__label__es ¡Te lo dije!
+__label__ro Vorbeşti spaniola?
+__label__uk Я не глуха.
+__label__uk Тома Джексона стратили за зраду.
+__label__uk Тон задзвонить.
+__label__nb Vi har allerede fortalt Tom hva han må gjøre.
+__label__nl Jullie rennen.
+__label__el Θ' αγοράσω μία.
+__label__uk Почекайте хвильку.
+__label__ce Доккха баркалла!
+__label__sr Ne pij vodu!
+__label__sr Морате размислити пре одговора.
+__label__en What an idiot you are!
+__label__ka  Aḥlil ma kemmlent akka!
+__label__eo Certe.
+__label__ka  Aya yezmer ad d-yeḍru i win yellan d ccaṭer.
+__label__uk Я - землянин.
+__label__de Hat es Ihnen gefallen?
+__label__hr Avionska karta je mnogo skuplja nego za vlak.
+__label__nd  De Melk smeckt slecht.
+__label__lt Kame skirtumas?
+__label__nb Bær og annen plantemat inneholder mye antioksidanter.
+__label__bg Трудно ми е да се концентрирам.
+__label__fr Il tombe malade.
+__label__ka  La nreggel.
+__label__fi Tom yski.
+__label__ka  Nnumeɣ ssewwayeɣ-d ayen ara ččeɣ.
+__label__nl Tom plukt sinaasappels.
+__label__ka  Ṭṭfemt-as-tent-id.
+__label__bn আপনাকে আবার দেখে খুশি হয়েছি।
+__label__uk Ця каблучка нiц не блищить.
+__label__ka  Uɣalen-d s anda akken bɣan ad ilin.
+__label__sv Har du blivit en ängel?
+__label__sq Jetoj afër Tomit.
+__label__ro Oribil!
+__label__nd  De Spraakkenner kennt Esperanto faken för Spaansch.
+__label__sa  Ким билбитэ баарай!?
+__label__mk Носам боксерки.
+__label__ia Le futuro es un femina con facie invisibile.
+__label__pt Me sinto feliz por estar livre daquele problema.
+__label__it Erano duri.
+__label__br Re a gafe a ev.
+__label__ia Deman es jovedi, le dece-duo de septembre.
+__label__as  ¡Bon nataliegu!
+__label__gl Algún día saberás a verdade.
+__label__nd  Mien Mudder backt elk Morgen Brood.
+__label__sk Tony býva v Kóbe.
+__label__ka  Ttxil-m qqim.
+__label__fi Tom katsoo minua.
+__label__fi Onni potkii aina joskus.
+__label__nd  Wann büst du dat leste Mool bi dien Öllern wäsen?
+__label__ka  Eǧǧ-iyi-iten-id.
+__label__da Vil du danse?
+__label__km យកអា៎មួយណា?
+__label__pt Segure isso!
+__label__ka  D acu i tebɣam sɣur-sen?
+__label__tt Адресыңны язып бирче миңа.
+__label__ka  Seg tifawt ur yeḥbis wedfel tiyita.
+__label__pt Por favor, dirija com cuidado.
+__label__bn আমার মালপত্র এখনো এসে পৌঁছায়নি।
+__label__es Dos no discuten si uno no quiere.
+__label__pt Maria espalhou boatos falsos sobre os pais de Kate.
+__label__ka  Ayɣer i tt-id-tuɣem?
+__label__it Vi invito stasera.
+__label__it Va a costruire moschee in Uganda.
+__label__ka  Yella walebɛaḍ i m-d-isawlen.
+__label__bn ও এখন লাঞ্চ করছে।
+__label__nl Beter lachen dan huilen.
+__label__ka  Ilaq ad tḍefṛeḍ ilugan.
+__label__it O kemuni mai vei?
+__label__as তোমাৰ স্কুলখন ক’ত আছে?
+__label__nb Han er sjalu.
+__label__sr Tom i Meri su konačno odlučili da se ožene.
+__label__ka  Melmi i d-usan?
+__label__el Πείτε της ότι είμαι άρρωστη.
+__label__ka  Tugad dɣa terwel.
+__label__nb Se opp på himmelen, og tell stjernene hvis du kan.
+__label__nd  Ik weet nich, wat ik maken schall.
+__label__nd  Ik weet nich, ’keen disse Mann is.
+__label__nd  Se lees em en Gedicht vör.
+__label__sa  Оҕо—киһи дьоло, эрэлэ.
+__label__el Οι Καναδοί δεν είναι αμερικανοί.
+__label__sr Ne bleji.
+__label__uk Дайте нам три хвилини.
+__label__uk Зараз досить прохолодно.
+__label__nb Har du noen som er billigere?
+__label__ka  Tesfeεfεeḍ-iyi!
+__label__pt Queremos ir à Rússia.
+__label__be Канешне, ён бедны, але ён шчаслівы.
+__label__la Pariter pulchra est ac rosa.
+__label__nd  Se keek em in ’t Gesicht.
+__label__ka  D ayen dɣa i yellan ilaq-ak.
+__label__es Espero con ganas su visita.
+__label__it Este peixe cru fresco está delicioso.
+__label__el Του αγόρασα γραβάτα.
+__label__nl Is dat vis?
+__label__nb Tony er en høflig gutt.
+__label__ka  Yal ugur ɣur-s tifrat.
+__label__mr निक्सनने राष्ट्रीय दूरदर्शनवर भाषण दिलं.
+__label__nl Zij wacht.
+__label__sr Tom ga je sâm napravio.
+__label__ka  Ɛlay Tom.
+__label__ka  Ass amenzu deg ikem-walaɣ, ul-iw am tzeǧǧigt im-yelli afriwen-is.
+__label__nb Gi meg noe å skrive på.
+__label__pt O vendedor mostrou como usar o triturador.
+__label__mk Што не влезете?
+__label__mk Кому пишуваш?
+__label__ka  Meqqeṛ deg leɛmeṛ, meɛna ur yessin ara akk ad iqadeṛ medden.
+__label__en Are you a maniac?
+__label__en Can I go, too?
+__label__el Ο Τομ είπε ότι είχε πολλά λεφτά.
+__label__sr Jeste li sarkastični?
+__label__el Ο Τομ υιοθέτησε την ιδέα μας.
+__label__nb Det hadde snødd i en uke.
+__label__eu Gureak askatasun egarri dira.
+__label__ka  Yesmejger Tom.
+__label__pt No calor do momento, Tom esbofeteou Mary.
+__label__ka  Atta tewweḍ-d nnuba-w.
+__label__fi Tiesin sen.
+__label__uk Гей, ти де?
+__label__ka  Yesεa yelli-s tecbeḥ.
+__label__ka  Ur yettbeddil yiqiḥ.
+__label__la AD LONDONIUM VENIVIT ANTE ANNO DUO
+__label__ka  D azgay i usiked n tideţ.
+__label__ka  Ccečč-iyi.
+__label__el Μ' αρέσει να μελετάω Αγγλικά.
+__label__la Decorum ab honesto non potest separare.
+__label__mk Беше доволно слаб да му подлегне на искушението.
+__label__gl Espero que te poñas ben pronto.
+__label__ka  Ttamneɣ-kent.
+__label__el Ο Τομ είναι πολύ κουρασμένος.
+__label__da Kører denne bus til Park Ridge?
+__label__ka  Tlemdem asewwi neɣ kra nniḍen?
+__label__el Θα ήθελα να αγοράσω μερικά μποτάκια.
+__label__ro El este un om haios.
+__label__es Andá a dormir ahora.
+__label__nd  He bruukt en Brill.
+__label__el Αυτή είναι η γάτα μου.
+__label__la Laborare est orare.
+__label__bs Rušio sam školu.
+__label__bg Вчера следобед валя.
+__label__ja それを信じるなんて君は単純だね。
+__label__nd  Wi sünd jümmer Frünnen wesen.
+__label__pt Rompamos os muros entre os povos.
+__label__es ¡Ven!
+__label__fr Tom entendit un grand bruit.
+__label__sa  Кутталыттан уҥна.
+__label__km តើម្ហូបរបស់ខ្ញុំនៅឯណា ?
+__label__nd  Ik wull geern en Foto von di hebben.
+__label__it Vado a lavorare in Bangladesh.
+__label__nd  En Pull Hoor keek ünner ehr Mütz rut.
+__label__ka  Ifukk-it?
+__label__ia Le linguistica comparate o comparative es relativemente poco diffuse in Brasil, forsan perque su practica demanda le dominio de plure linguas.
+__label__uk Я ненавиджу зиму.
+__label__ca Tens gana?
+__label__nd  Dat Klima hier is as in Frankriek.
+__label__ba Томның бай булғанын төшөндөм.
+__label__el Αναρωτιέμαι γιατί δεν είναι δω ο Τομ.
+__label__id Berikan padaku.
+__label__ds  Tom njejo rowno doma.
+__label__nb La det bli med det for denne gang.
+__label__de Tom gefiel, was er sah.
+__label__ka  I wacu i tṛuḥem ɣer din?
+__label__sk Toto je ten dom.
+__label__uk Розлабтеся на секунду.
+__label__bn আমি ছয়টা সময়ে ফিরে আসবো।
+__label__oc I a una dèca dens sa redaccion.
+__label__es ¿Le echo una mano?
+__label__kw Trigys ov vy yn Hyogo.
+__label__es No le grites a él.
+__label__jv Tom mesthi nang kéné.
+__label__ka  Tom yeṭṭef lkar ar unaray-is.
+__label__el Πόσο χρονών με κάνεις;
+__label__nn Vi mislukkast i å få han til å seia seg samd i planen vår.
+__label__pt Faz as coisas com amor.
+__label__sr Jesi li video mog psa?
+__label__da Tom mener, at planen kan give bagslag.
+__label__ka  Steɛfu kan.
+__label__es Bebo una taza de té tropical.
+__label__ka  Akka i yelha.
+__label__nl We hadden beiden honger.
+__label__ka  Ǧǧan-d ayen i d-ǧǧan wiggad iruḥen, ččan ayen i d-ǧǧan wiggad i d-yeqqimen !
+__label__rn Nzokunezereza.
+__label__ka  Feṛḥen akken ma llan.
+__label__nb Tom er en venn av John.
+__label__eo Estis ridige!
+__label__km ចង់ទៅជាមួយខ្ញុំអត់?
+__label__nb Prisene har gått ned.
+__label__nd  Tom deed noch en Stück Holt bi ’t Füür leggen.
+__label__en Sami woke up to pray fajr.
+__label__ka  Ɣef acu i tennuɣem akken?
+__label__ja 意志のあるところに道あり。
+__label__ka  Ṛeḍlet-asent-tent-id.
+__label__eu E?
+__label__nl Tom dronk bier.
+__label__ka  Aṭas n imeckuken i yellan.
+__label__bn আমি নেড়া না।
+__label__ka  Ddaw n uzgen n uvrid i d-yeggran ɣer tqacuct. D tidet teɛyam yakan?
+__label__ka  Fkan-as asegzawal i yelli deg uɣerbaz.
+__label__ka  Tom yella temlek-it Mary.
+__label__sr Ona je umorna i želi da spava duže.
+__label__el Είστε καλύτεροι απ' αυτή.
+__label__ee Wo menya be yapantɔ menye o.
+__label__la Thomas est vir magnae auctoritatis.
+__label__ka  Awit-asen-d ad ččen.
+__label__lt Viso gero.
+__label__oc La veitura de Jack es un modèle recent.
+__label__pt Sabem assinar?
+__label__ka  Cfu mliḥ ɣef awalen-a.
+__label__ka  Ad yili wahil n usewsaɛ n uẓeṭṭa ɣer tuddrin-nniḍen deg wagguren i d-iteddun.
+__label__ka  Ismawen-a imaynuten ur ten-tettissin ara taggayt niḍen.
+__label__nd  He drünk een Beer ut un bestell glieks noch een.
+__label__ka  Ur tessineḍ ara ad temmeslayeḍ tafṛansist neɣ ala?
+__label__el Απεχθάνομαι την αγενή του στάση.
+__label__hu Hegedülök.
+__label__be Я маю сабаку.
+__label__es ¡Callate, pelotudo!
+__label__la Tres erant homines.
+__label__uk Десь болить?
+__label__hu Elszédült.
+__label__ka  Acu tettrajit isqedcet isnasen i d-yeqqlen i teqbaylit?
+__label__uk У Тома талант.
+__label__tr Kısa etek pembe.
+__label__vo Cils dredons semikna dagi.
+__label__oc Podes anar on que sia.
+__label__vi Chắc chắn. Chúc may mắn!
+__label__ka  Tberreḥ-d taddart ɣer twizi.
+__label__ka  Amek i telliḍ a Mike?
+__label__ro Să facem curat.
+__label__ka  Degmi ẓẓay s waṭas, ur zmireɣ ad-t rfed-aɣ.
+__label__el Ο Τομ μεταφράζει αργά.
+__label__pr  Ka pamenna rikīs iz pirmans kereūsnas dēinans?
+__label__nd  Ik will Sex mit ehr hebben.
+__label__nd  Ik fraag mi, wat de Klock seggt.
+__label__ka  Akked wumi i tesɛam ttiɛad?
+__label__eu Ez dut alergiarik.
+__label__hu Éhezem!
+__label__nb Dette emballasjemateriale gir termisk isolasjon.
+__label__bg Чета кратки разкази.
+__label__sk Márii sa sníval zlý sen.
+__label__en What flavors do you have?
+__label__en Everybody hide!
+__label__es Ellas nunca regresaron a su país.
+__label__uk Я перевдягаюсь.
+__label__ar "هل اشترت ساعةً؟" "أجل".
+__label__fr Mary et Alice portaient des tenues assorties.
+__label__el Δεν είσαι ευτυχισμένη;
+__label__nb Jeg ønsker å kjøpe denne klokken men dessverre er den altfor dyr.
+__label__uk Я кажу серйозно.
+__label__mk Ти направив мафини.
+__label__nd  Wat verwachtst du?
+__label__uk Я їздив до Бостона тиждень тому.
+__label__uk Я ще не скачала файл.
+__label__la Pauca dedit Maria, at dedit.
+__label__mk За нив ли размислуваш?
+__label__ia Io estima necessari facer iste correction.
+__label__es Pase lo que pase, por favor recuerda que estaré a tu lado.
+__label__de Tom ist unglaublich faul.
+__label__it Quando le ha conosciute?
+__label__hu Mary bekapta a legyet.
+__label__is Ég hata svokölluð „30 daga“ tungumálanámskeið.
+__label__el Ήμουν απασχολημένος αυτή την εβδομάδα.
+__label__uk Будинок невеликий, але нам вистачає.
+__label__ja 何が心配なの？
+__label__de Wo ist meine Armbanduhr?
+__label__it Una foglia sta cadendo.
+__label__lt Ar tu matei mano sesę?
+__label__ca El meu nom és Ricardo.
+__label__gd Bha an cù anns a’ bhocsa fon bhòrd.
+__label__tr Kan damarlarda akar.
+__label__mk Не ти треба.
+__label__it Ho una domanda, Tom.
+__label__it Noi verremo a trovarti.
+__label__fr Thomas utilise des logiciels libres.
+__label__hu Korán ébredtem.
+__label__es Un gusto verte.
+__label__eo Provu agi normale.
+__label__eo Fiziko estas fundamenta naturscienco.
+__label__gn Jareko peteĩ apañuái piko?
+__label__it Rimarrò fino alla fine.
+__label__ru Стивен умер.
+__label__eo Li estas tre atentema ŝoforo.
+__label__sr Tom će napredovati.
+__label__nl De vredesonderhandelingen beginnen deze week.
+__label__es ¿En dónde he estado?
+__label__pt Vezes sem conta me pergunto se algum dia / serei capaz de saber algo neste mundo. / Por mil anos, talvez, de estudar eu teria – / e esta vida só dura um mísero segundo.
+__label__ia Io vos assecura, que, plus que contente, io es totalmente felice de mi cerebro.
+__label__eo Veturigu nin hospitalen.
+__label__lt Jam šiandien negalima valgyti nieko saldaus.
+__label__mk Ја очекував.
+__label__sv Tom åt en snabblunch.
+__label__it Adoro i romanzi d'amore.
+__label__it Risparmiavo.
+__label__fr Les rêves peuvent me rendre fou.
+__label__it Si alza.
+__label__pt O corvo crucita.
+__label__ia Ille dormi como un trunco.
+__label__es Sugiero que nos digas todo lo que sabés respecto a Tom.
+__label__nl Carlos is intelligent en creatief.
+__label__la Inter arma silent Musae.
+__label__uk Том сумує за дружиною.
+__label__hu Bízz bennem!
+__label__da Dine hænder er store.
+__label__lt Mes pasirengę.
+__label__da Nogen ringede på dørklokken.
+__label__da Turen er billigere med metro end med bus.
+__label__he תביט איך הרכבת טסה על הגשר.
+__label__it Ti sento, ma non ti vedo.
+__label__cs Rozmotáš tenhle uzel?
+__label__ja 妹は母に似ている。
+__label__ia Io non ha potite dissuader Clark de su opinion.
+__label__sv Tom äter ofta frukost ensam.
+__label__es ¿Esta es su casa?
+__label__fr Ni l'espéranto ni l'interlingua n'utilisent la double négation.
+__label__it Guardatele.
+__label__it Va a costruire grattacieli in Uganda?
+__label__pt Que outra escolha tive eu?
+__label__hu Tom minden miatt panaszkodik.
+__label__it Le tue lamentele mi agitano.
+__label__da Hvorfor er det interessant at fotografere tog?
+__label__eo Grandanimeco estas io gajnanta.
+__label__eo Li resanigos.
+__label__es El té se te va a enfriar si no te lo bebes pronto.
+__label__kw Hi a wrug ergh.
+__label__uk Том страждає на дислексію.
+__label__el Έχω μήνες να τον δω.
+__label__nl Tom geeuwt.
+__label__eo Damasko estas en Sirio.
+__label__it Arrivederci, allora.
+__label__oc Lo lausange es un paralelogram qu'a totis los costats de la medisha longor.
+__label__tt Бу Том кызы түгелме?
+__label__de Der Vogel mag Reis.
+__label__uk Я дивлюсь на свої гарні тюльпани.
+__label__es ¿Cuántos empleados tienes?
+__label__ar ٠ دَرَسَ ابْنُ سِيناَ أَكْثَرَ مِنْ اثْنَيْ عَشَرَ عِلْماً
+__label__da Det er for sent nu.
+__label__eo Vespere mi lernis la germanan.
+__label__uk Цей годинник поспішає на дві хвилини на день.
+__label__ia Multe aves retorna periodicamente a iste loco.
+__label__la Vos manetis, ego abeo.
+__label__oc Ne sabèm pas quan vengó tà Londres.
+__label__it Non ha alcun significato.
+__label__da Hvad er dit password?
+__label__es Usted no me aprecia.
+__label__fr Tom ne s'habille pas.
+__label__it Riuscite a spedirlo a New York?
+__label__es Una cosa llevó a otra.
+__label__da Tom lod sig fotografere.
+__label__es Lo superaremos.
+__label__uk Послухай це.
+__label__bg Това не е правилно.
+__label__fr Ne souris pas.
+__label__la Maria Sara vocor.
+__label__sr Tom ne ume da piše lepo.
+__label__hu Semmi ok a félelemre.
+__label__it Tom fuma.
+__label__it Piove da ieri.
+__label__fr Partir c’est mourir un peu.
+__label__eo Reĝo donacis, sed polico minacas.
+__label__eo La ino sidis inter du viroj.
+__label__pt O carbono é um elemento químico de símbolo C.
+__label__sr Ne mogu da izdržim ove bolove u stomaku.
+__label__it Tu studi fisica.
+__label__es Estos están realmente locos.
+__label__nl De regen veranderde in sneeuw.
+__label__nl Het klimaat verandert.
+__label__pt Tom viu-o nas notícias.
+__label__ia Il non es bon que le homine vive sol.
+__label__tt Сәгать тугызда булса, ярыймы?
+__label__is Ég hef týnt veskinu mínu.
+__label__it Amo fare shopping!
+__label__uk Будь ласка, зачекайте п'ятнадцять хвилин.
+__label__eo Li evidente faris eraron.
+__label__it Per studio andiamo in Somalia.
+__label__ru Нам никто не помог.
+__label__ia Tu es inamorate.
+__label__el Σας αρέσουν τα γλυκά; Ναι μου αρέσουν.
+__label__fr Ne sois pas si sauvage, Jack.
+__label__es ¿Quieres probar esto?
+__label__fi Jääkää lounaalle.
+__label__en What blue sky!
+__label__en Celebrate in style!
+__label__it Lo state per provare.
+__label__tr Kanıt ezici.
+__label__id Film barunya mengecewakan.
+__label__ja 私の父は壊れた椅子を修理する。
+__label__sv Sluta bete dig som ett barn.
+__label__es Tom se está quedando calvo.
+__label__en Nobody tried to intervene.
+__label__it Decideremo.
+__label__fi Tein sen itse.
+__label__it Mio figlio ha ventitré anni.
+__label__it Sembra costipato.
+__label__fr Elle est assise sur un banc.
+__label__es ¿Cuánto cuestan estos pantalones?
+__label__it Mio zio mi diede un libro.
+__label__ja この辞書は君のと同じぐらい役に立つ。
+__label__es ¿De dónde venimos?, ¿hacia dónde vamos?
+__label__pl Znam Johannesa.
+__label__ru Простите за мой французский.
+__label__it Vai a costruire allevamenti in Galles?
+__label__sr Sva trojica dečaka su se smejali.
+__label__is Liturinn næst ekki af.
+__label__eo Estis relative agrable.
+__label__es Esta sopa está buena.
+__label__fr Tu lavais le linge.
+__label__la Ei placet.
+__label__es Creo que es interesante.
+__label__mk Не ми текнува зошто.
+__label__it In quale categoria siete?
+__label__it Va a costruire arene in Austria.
+__label__is Ég kynntist henni MJÖG vel.
+__label__he אידע מחר.
+__label__mk Не настинувај.
+__label__lt Šis obuolys yra saldus.
+__label__la Ver maxime mihi placet.
+__label__it Vado a fare carriera in Francia.
+__label__nl Ik denk dat je beter een pauze neemt.
+__label__tr Her insan sevilmek ve sayılmak ister.
+__label__es ¡No mueras!
+__label__it Ci assomigliamo pochissimo.
+__label__pl Na ścianie wisi portret Bob'a.
+__label__hu Mennyire fontos?
+__label__tr O sahtekarlık.
+__label__en Tom, I choose you!
+__label__it Eri in coma.
+__label__ru Стоянка запрещена.
+__label__pt Tom desapareceu na névoa.
+__label__nn Eg tullar ikkje.
+__label__it Donna nana, tutta tana.
+__label__fr Elle lui acheta un appareil photo.
+__label__uk Тебе колись нудить у машині?
+__label__ru Как брата помирить с братом?
+__label__sk Neplnili ste vyrobny plán.
+__label__tr Tom ve Mary amatör.
+__label__sr Tomova svest je podeljena u deset različitih ličnosti, koji naizmenično preuzimaju kontrolu. One poznaju jedna drugu i posmatraju jedna drugu kao različite individue.
+__label__pt Em vez de estudar, passeais.
+__label__eo La manumado de dinamito estas danĝera.
+__label__it Strillò.
+__label__pt As mulheres odeiam o Tom.
+__label__es ¿Quieres seguir jugando?
+__label__da Gør jeg det her forkert?
+__label__sr Koji studenti će raditi test?
+__label__uk Том іпохондрик.
+__label__ia Io es multo disgustate de isto.
+__label__fi Ainoa huoleni on, ettei minulla ole huolia.
+__label__ga Tá an carr mall.
+__label__lt Tomas nusipirko web kamerą.
+__label__sv Rapporten ansågs vara falsk.
+__label__hu Nemet mondott.
+__label__it Mi divertirò.
+__label__bg Защо постъпваш така с мен?
+__label__hr Spasit ću te.
+__label__hu Tomi segít.
+__label__es Me alegra que estemos progresando.
+__label__it Vai a costruire templi in Libia?
+__label__nl Kom binnen, de deur is open.
+__label__pt Posso abrir as janelas?
+__label__pt Ontem passei o dia com a Maria.
+__label__is Tom var næstum drukknaður.
+__label__tt Букчаң миңа бик ошый.
+__label__cs Tom se z toho dostane.
+__label__it Vai a costruire case in India.
+__label__fr Et cette robe ?
+__label__ro Tom pare îngrijorat.
+__label__es ¿A que no adivina usted lo que me ha ocurrido hoy?
+__label__it Va a costruire moschee in Cile?
+__label__pt Raposas são animais selvagens.
+__label__bn আমি A-1 গেটে কিভাবে যাব?
+__label__be Я рамантую зламаныя радыёпрыёмнікі.
+__label__de Mama, wo ist Papa?
+__label__it Domani avrete algebra.
+__label__ru Думаю, Том не прав.
+__label__eo Mi revenis laca el la laboro.
+__label__el Γιατί θέλεις να πας στην Τουρκία;
+__label__fr Tu me mens.
+__label__fr Un paquet de cigarettes en contient vingt.
+__label__tr "Hekimlerin nereli?" "Bulgar."
+__label__it Vai a costruire banche in Grecia.
+__label__he כעת אין גשם.
+__label__hu Ne menj!
+__label__cy Dw i'n Wyddel.
+__label__ru Кто-то звонит.
+__label__nl Het leven is iets grappigs.
+__label__sr Odmah ćemo se baciti na posao.
+__label__eo Li metis la manon en vesponeston.
+__label__tr Kenji tenis oynar.
+__label__es Marie quiere comprar libros.
+__label__it Li vorreste conoscere?
+__label__nl Het is koud hier.
+__label__it La riguarda.
+__label__cs Budeš slavná.
+__label__la Ovum durum est.
+__label__ja 枝が伸び、実が成ることを想定して接ぐ場所を選びましょう。
+__label__es ¡Levanta la cabeza!
+__label__es No tengo un teclado turco.
+__label__de Tom hebt ein Loch aus.
+__label__es ¿No te encantan los gatos?
+__label__it Fallite sempre.
+__label__da Det er mange penge.
+__label__ru Возможно, Том и прав.
+__label__mn Тэр худлаа хэлж байна.
+__label__it Andate a studiare in Bielorussia.
+__label__ru Только не пой.
+__label__ug دوستلۇقىمىز ئۈچۈن!
+__label__eo Kompreneble nia vivostilo diferencas de la usona.
+__label__it Marie abbaiava.
+__label__pt E agora eu gostaria de comprar um pacote de goma de mascar.
+__label__ar هل هذا هو الحب؟
+__label__hu Mit mondsz?
+__label__ja 今朝から雨が降ったりやんだりしている。
+__label__mk Дали си побожен човек?
+__label__es Veo mi barco.
+__label__es Lo que ella dice es falso.
+__label__fr Il lui passa le bras autour du cou.
+__label__de Er will keinen Krieg.
+__label__la Cur semper ego?
+__label__pt Que disseste?
+__label__eo La baleno estis trovita apud la marbordo de Wakayama.
