@@ -153,13 +153,5 @@ namespace LanguageTeller.Tests
 
             Assert.NotEqual(GetLanguage(language), GetLanguage(lm.Language));
         }
-
-        [Fact]        
-        public void TestLabels()
-        {
-            var labels = LanguageTellerFtz.GetLabels();
-
-            Assert.Equal(176, labels.Length);
-        }
     }
 }

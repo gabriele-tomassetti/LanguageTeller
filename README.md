@@ -33,3 +33,5 @@ There are also utility method to check a model or load your own. You might also 
 ## License
 
 The code itself is under the Apache License. The model maintains the original license of Facebook, which is [Creative Commons Attribution-Share-Alike License 3.0.](https://creativecommons.org/licenses/by-sa/3.0/).
+
+The strings for the tests comes from [Tatoeba](https://tatoeba.org/eng/), also under a [Creative Commons licenseAttribution 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/deed.fr).
